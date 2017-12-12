@@ -1,0 +1,16 @@
+{
+  "name": "he-annotator",
+  "flat": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/OrenBochman/annotator.git",
+    "type": "git"
+  },
+  "author": "oren bochman <OrenBochman@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@polymer/polymer": "next",
+    "@webcomponents/webcomponentsjs": "^1.0.20"
+  }
+}
